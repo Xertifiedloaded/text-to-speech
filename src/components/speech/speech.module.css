@@ -10,15 +10,15 @@
     padding: 10px 100px;
     border-radius: 10px;
     border: none;
-};
+}
 .speak{
     width: 70%;
     margin: 0 auto;
-};
+}
 .speak textarea{
     background: transparent;
     color: white;
     resize: none;
     width: 100%;
     height: 200px;
-};
+}
