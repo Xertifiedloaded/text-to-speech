@@ -9,7 +9,7 @@ const TextToSpeech = () => {
     }
     const handleSubmit = () => {
         speak({ text: speaks })
-    }
+    };
     return (
         <>
             <div className={classes.main}>
